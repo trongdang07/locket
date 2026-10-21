@@ -57,7 +57,7 @@ if (ua.includes("Locket")) {
                 {
                     title: "Nhớ follow kênh tiktok @hzdawng ✨",
                     body: "Một follow của bạn, một niềm vui của mình 💛",
-                    imageURL: "https://i.ibb.co/353nzB4K/img.avif"
+                    imageURL: "https://i.ibb.co/G3k4X65S/e98243a7-9c9a-4936-b3ae-0a8356a2458d.avif"
                 }
             ],
             primary_button_title: "Xong rồi nhé!",
