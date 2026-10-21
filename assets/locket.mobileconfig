@@ -50,7 +50,7 @@
             <key>PayloadDisplayName</key>
             <string>Locket Gold DNS</string>
             <key>PayloadOrganization</key>
-            <string>Đinh Duy Vinh</string>
+            <string>Lê Trọng Hải Đăng</string>
             <key>PayloadIdentifier</key>
             <string>com.apple.dnsSettings.managed.locketvip</string>
             <key>PayloadType</key>
@@ -68,7 +68,7 @@
     <key>PayloadIdentifier</key>
     <string>com.duyvinh09.locket.vip</string>
     <key>PayloadOrganization</key>
-    <string>Đinh Duy Vinh</string>
+    <string>Lê Trọng Hải Đăng</string>
     <key>PayloadRemovalDisallowed</key>
     <false/>
     <key>PayloadType</key>
