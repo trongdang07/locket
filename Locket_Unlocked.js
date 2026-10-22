@@ -52,7 +52,7 @@ if (ua.includes("Locket")) {
             tag: "LOCKET GOLD BY Hzdawng 🎀",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Welcome to locket gold",
+            title: "Welcome to locket gold !",
             feature_set: [
                 {
                     title: "Chúc bạn một ngày vui vẻ 💕",
