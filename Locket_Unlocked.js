@@ -49,14 +49,14 @@ if (ua.includes("Locket")) {
             profile_banner: true
         }),
         feature_discovery_popup_config: JSON.stringify({
-            tag: "LOCKET GOLD ALL FEATURES",
+            tag: "LOCKET GOLD BY Hzdawng 🎀",
             tag_gradient: true,
             tag_style: "gold_gradient",
-            title: "Lên Locket Gold rồi đó 😎",
+            title: "Welcome to locket gold",
             feature_set: [
                 {
-                    title: "Nhớ follow kênh tiktok @hzdawng ✨",
-                    body: "Một follow của bạn, một niềm vui của mình 💛",
+                    title: "Chúc bạn một ngày vui vẻ 💕",
+                    body: "Contact zalo: 0325676804 ✨",
                     imageURL: "https://i.ibb.co/0VGpT361/hzdawng.avif"
                 }
             ],
